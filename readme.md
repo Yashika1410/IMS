@@ -31,7 +31,7 @@ After setting up the database, you can run the Spring Boot application using Gra
 Check the API documentation and test the aplication.
 5. The Admin User will be got created while initializing the database.
     * admin email: agmin@gmail.com
-    * password: admin@123
+    * password: admin@123 </br>
 Using admin user bearer token You can access actuator enpoints.
 6. To create a new user you can use sign-up api but it will create only USER role type user. You can access all the API's except actuators one.
 7. You can access database on pgAdmin using 
